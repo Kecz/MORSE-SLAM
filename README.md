@@ -1,3 +1,11 @@
+# MORSE - SLAM
+
+This project is our own implementation of SLAM in MORSE Simulator. Our taget was to estimate trajectory of mobile robot based on odometry, imu and lidar while simultaneously mapping robot's environment and plotting it live with robot's trajectory. Details can be found in documentation in file "MORSE_Dokumentacja.pdf". Documentation in pdf is currently available only in polish, but there is detailed code documentation in docstrings in scripts.
+
+Project was executed in SCRUM methodology for a period of 10 months.
+
+Authors: Bartosz Bieliński, Katarzyna Martek, Łukasz FLorczak, Tomasz Ciborowski, Sabina Marocka, Adrian Kowalski, Krzysztof Smusz, Wojciech Rutkowski, Adam Nyka
+
 ### To install packages required for proper usage of project use:
     cd morse
     chmod +x install.sh
