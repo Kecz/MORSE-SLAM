@@ -2,9 +2,9 @@
 
 This project is our own implementation of SLAM in MORSE Simulator. Our taget was to estimate trajectory of mobile robot based on odometry, imu and lidar while simultaneously mapping robot's environment with help of other sensors and plotting it live with robot's trajectory. Details can be found in documentation in file "MORSE_Dokumentacja.pdf". Documentation in pdf is currently available only in polish, but there is detailed code documentation in docstrings in scripts.
 
-Project was executed in SCRUM methodology for a period of 10 months.
+Project was executed in SCRUM methodology for a period of 5 months.
 
-Authors: Bartosz Bieliński, Katarzyna Martek, Łukasz FLorczak, Tomasz Ciborowski, Sabina Marocka, Adrian Kowalski, Krzysztof Smusz, Wojciech Rutkowski, Adam Nyka
+Authors: Bartosz Bieliński, Katarzyna Martek, Łukasz Florczak, Tomasz Ciborowski, Sabina Marocka, Adrian Kowalski, Krzysztof Smusz, Wojciech Rutkowski, Adam Nyka
 
 Recommended tools:
 * Python 3.6
